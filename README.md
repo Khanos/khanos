@@ -16,7 +16,7 @@ do {
     Try()
     .then(Fail)
     .then(GetUp)
-    .catch(Learn)    
+    .catch(error => Learn(error))    
 }(NotSucceed)
 ```
 
