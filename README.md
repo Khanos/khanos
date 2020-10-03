@@ -9,17 +9,11 @@
 
 - 🌱 I’m currently learning **React/Redux, VueJs, Azure, AWS, Micro Services, Serverless**
 
-- 👯 I’m looking to collaborate on **Any project React Related**
-
-- 🤝 I’m looking for help with **Moving into another country**
+- 👯 I’m looking to collaborate on [Any project React Related](https://github.com/Khanos/100DaysOfReact)
 
 - 👨‍💻 All of my projects are available at [https://khanos.github.io/](https://khanos.github.io/)
 
 - 💬 Ask me about **Anything**
-
-- 📫 How to reach me **epilef.rodriguez@gmail.com**
-
-- ⚡ Fun fact **I cut my own hair**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
