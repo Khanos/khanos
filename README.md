@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanos" alt="khanos" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@epilefrodriguez" target="blank"><img src="https://img.shields.io/twitter/follow/@epilefrodriguez?logo=twitter&style=for-the-badge" alt="@epilefrodriguez" /></a> </p>
+<p align="left"> <a href="https://twitter.com/epilefrodriguez" target="blank"><img src="https://img.shields.io/twitter/follow/@epilefrodriguez?logo=twitter&style=for-the-badge" alt="@epilefrodriguez" /></a> </p>
 
 - 💕 I’m currently working for [cenora](https://cenora.com/)
 
