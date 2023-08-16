@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/epilefrodriguez" target="blank"><img src="https://img.shields.io/twitter/follow/@epilefrodriguez?logo=twitter&style=for-the-badge" alt="@epilefrodriguez" /></a> </p>
 
-- 💕 I’m currently working for [MercadoLibre 🤝]([https://cenora.com/](https://developers.mercadolibre.com/))
+- 💕 I’m currently working for [MercadoLibre]([https://cenora.com/](https://developers.mercadolibre.com/)) 🤝
 
 - 🔭 I was working on [DerfDice](https://derfdice.com)
 
