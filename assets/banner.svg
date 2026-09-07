@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Epilef Rodriguez, senior frontend engineer, Sevilla, Spain. Focus: architecture, accessibility, performance.">
+  <title>Epilef Rodriguez — senior frontend engineer</title>
+
+  <rect x="1" y="1" width="998" height="248" rx="14" fill="#07090f" stroke="#27406f" stroke-width="2"/>
+  <path d="M1 15A14 14 0 0 1 15 1h970a14 14 0 0 1 14 14v27H1z" fill="#0d1220"/>
+  <line x1="1" y1="42" x2="999" y2="42" stroke="#27406f" stroke-width="1.5"/>
+
+  <circle cx="26" cy="22" r="5.5" fill="#ff4fd8"/>
+  <circle cx="46" cy="22" r="5.5" fill="#68f3ff"/>
+  <circle cx="66" cy="22" r="5.5" fill="#3cffc9"/>
+  <text x="92" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8ea2c9">khanos@github — ~/profile</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="40" y="82" font-size="16" fill="#8ea2c9"><tspan fill="#3cffc9">$</tspan> whoami</text>
+    <text x="40" y="127" font-size="38" font-weight="700" fill="#d5e2ff">Epilef Rodriguez</text>
+    <text x="40" y="156" font-size="17" fill="#3cffc9">senior frontend engineer &#183; sevilla, spain</text>
+
+    <text x="40" y="200" font-size="16" fill="#8ea2c9"><tspan fill="#3cffc9">$</tspan> cat ~/.focus</text>
+    <text x="40" y="226" font-size="17" fill="#68f3ff">architecture<tspan fill="#27406f"> &#183; </tspan>accessibility<tspan fill="#27406f"> &#183; </tspan>performance</text>
+    <rect x="488" y="212" width="10" height="18" fill="#ff4fd8"/>
+
+    <line x1="580" y1="66" x2="580" y2="212" stroke="#27406f" stroke-width="1.5"/>
+    <text x="620" y="82" font-size="16" fill="#8ea2c9"><tspan fill="#3cffc9">$</tspan> ls ~/stack</text>
+    <text font-size="16" fill="#8ea2c9">
+      <tspan x="620" y="112">typescript/</tspan><tspan x="620" y="138">vue/</tspan><tspan x="620" y="164">tailwind/</tspan><tspan x="620" y="190">python/</tspan>
+    </text>
+    <text font-size="16" fill="#8ea2c9">
+      <tspan x="745" y="112">react/</tspan><tspan x="745" y="138">astro/</tspan><tspan x="745" y="164">express/</tspan><tspan x="745" y="190">gtk4/</tspan>
+    </text>
+    <text font-size="16" fill="#8ea2c9">
+      <tspan x="860" y="112">next/</tspan><tspan x="860" y="138">node/</tspan><tspan x="860" y="164">jest/</tspan><tspan x="860" y="190">wayland/</tspan>
+    </text>
+  </g>
+</svg>
